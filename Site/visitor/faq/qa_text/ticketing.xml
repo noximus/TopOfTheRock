@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<categories>
+	<category id="5" name="Ticketing" screenName="TICKETING">
+		<questions>
+			<question id="24">
+				<q><para>Q: How does the ticketing work?</para></q>
+				<a><para>A: If the tickets were purchased in advance, then the tickets can be printed out from the 
+				confirmation e-mail. This allows the ticket holder to bypass the ticket counter and proceed to the 
+				pre-show area on the mezzanine. If you would like to walk-in and purchase tickets without reservations, 
+				you will be reserved in the next available time slot to enter the pre-show area.</para></a>
+			</question>
+		
+		
+			<question id="25">
+				<q><para>Q:  Am I required to purchase tickets in advance?
+				</para></a>
+				<a><para>A:  Advanced reservations are suggested, but not required.For your convenience, there are three ways you can purchase 
+				tickets for Top of the Rock </para>
+				<para>1. You can purchase online at http://www.topoftherocknyc.com. </para>
+				<para>2. Or you can also walk up to the box office located on 50th Street between 5th and 6th Avenue.</para> 
+				<para>3. You can contact our box office at 1-877-NYC-ROCK.</a></para>
+			</question>
+			
+			<question id="26">
+				<q><para>Q. If I have my tickets printed out do I still have to stand in line?</para></q>
+				<a><para>A. If you already have your tickets, you may bypass the ticket line and proceed up the stairs to the pre-show area.
+				</para></a>
+			</question>
+			
+			<question id="27">
+				<q><para>Q:  What do the times on the tickets mean?</para></q>
+				<a><para>A:  The first time on your ticket is your time slot to enter the pre-show area. The second time on your ticket is 
+				when you exit the pre-show area and board a shuttle to the Observation Deck.  Once you are at the on the deck you may stay 
+				as long as you wish until we close at Midnight.</para></a>
+			</question>
+			
+					
+			<question id="28">
+				<q><para>Q:  Are children under 6 admitted for free?</para></q>
+				<a><para>A:  Yes, admittance for children under 6 years old is free when accompanied by their parent or legal guardian.  
+				This does not apply to school groups.  </para></a>
+			</question>
+			
+			<question id="29">
+				<q><para>Q:  What if I show up late and miss my timeslot?</para></q>
+				<a><para>A:  Because our focus is on excellent customer service, we will honor the ticket on the same day 
+				and will book you for the next available timeslot. You will not need to purchase a new ticket. 
+				However, we strongly suggest arriving at the time listed on your ticket for an optimal experience.</para></a>
+			</question>
+			
+			<question id="30">
+				<q><para>Q: What if I show up early for my timeslot?</para></q>
+				<a><para>A: If we have available space, we will attempt to accommodate you in the next available timeslot. 
+				However, if we are sold out, you will be asked to return at the time on your ticket.</para></a>
+			</question>
+			
+			<question id="31">
+				<q><para>Q:  Can you send tickets by post?</para></q>
+				<a><para>A: We do not send tickets by post; if you are unable to print out the tickets from the e-mail or you do not have e-mail, 
+				you can present your credit card at the ticket counter and we will print your tickets for you. </para></a>
+			</question>
+			
+			<question id="32">
+				<q><para>Q:  Does our reservation expire? </para></q>
+				<a><para>A:  Your tickets will expire after the time printed on the ticket. </para></a>
+			</question>
+			
+			<question id="33">
+				<q><para>Q: Do you offer a yearly pass, or a ticket that allows more than one visit per day?</para></q>
+				<a><para>A: While both ideas have been suggested, and are under consideration, we do not offer either at this time.</para></a>
+			</question>
+
+			
+			
+		</questions>
+
+	</category>
+</categories>
+
+		

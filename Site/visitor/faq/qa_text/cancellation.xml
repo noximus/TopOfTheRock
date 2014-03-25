@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<categories>
+	<category id="10" name="Cancellation, Refunds and Reissues" screenName="CANCELLATION, REFUNDS, AND REISSUES">
+		<questions>
+			
+			<question id="49">
+				<q><para>Q: What is the cancellation policy?</para></q>
+				<a><para>A:  Tickets must be refunded at least 24 hours prior to the reserved time slot. If you wish to cancel a ticket with 
+				less than 24 hours notice, we can reissue the ticket for a later date and time, but not refund it.</para></a>
+			</question>
+			
+			<question id="50">
+				<q><para>Q:  Is Top of the Rock weather dependent?</para></q>
+				<a><para>A:  Top of the Rock is open 7 days a week and 365 days a year, despite weather conditions.  
+				Guests can still enjoy the view from the interior space at the Top if weather is inclement. 
+				Guests will always be advised about weather conditions if there is poor visibility prior to entry of Top of the Rock.</para></a>
+			</question>
+			
+			<question id="51">
+				<q><para>Q: Can I change my ticket time online?</para></q>
+				<a><para>A:  In order to change your ticket time, you must refund your ticket through the online refund option 
+				(if you purchased online originally) and purchase a new ticket for your desired time.</para></a>
+			</question>
+			
+			<question id="52">
+				<q><para>Q:  Can I refund a single ticket if I purchased more than one online?</para></q>
+				<a><para>A: In order to refund any part of your transaction, you must refund the entire 
+				transaction and re-book the tickets.</para></a>
+			</question>
+			
+			
+		</questions>
+
+	</category>
+</categories>
+
+		

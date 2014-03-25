@@ -1,0 +1,49 @@
+Fonts used:
+-----------------------------------------
+Arial
+
+
+Versions:
+-----------------------------------------
+MX 2004 & Higher
+
+
+How to use this file:
+-----------------------------------------
+Simply drop the movieclip named ScrollingMenu onto your stage, all ActionScript is self-contained in the ScrollingMenu movieclip.
+
+
+To customize your menu:
+-----------------------------------------
+
+Go inside the ScrollingMenu movieclip and view the ActionScript on the Actions layer.
+
+1) To define the total number of buttons you would like to have, change the number which totalBttns equals to.
+
+2) To define number of buttons visible at any time change the number which showBttns equals to.
+
+3) To have custom names for each button, remove /*/ and repeat the code for the total number of buttons
+
+For Example:
+
+menu_mc.bttn_mc1.menuName = "Home"
+menu_mc.bttn_mc2.menuName = "About us"
+menu_mc.bttn_mc3.menuName = "Services"
+
+Repeat for the total number of buttons.
+
+4) To link the buttons to frame labels on your stage, go the bttn_mc Movieclip and view actions on the Bttn layer. Remove the comment "//"
+
+For Example:
+_root.gotoAndStop(menuName);
+
+menuName would be a frame label on your stage.
+
+Alternatively you could link to a target movieclip on your stage.
+For Example:
+_root.content_mc.gotoAndStop(menuName);
+
+This will link to frame labels within the content_mc MovieClip which is on your stage.
+
+
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<categories>
+	<category id="13" name="Cancellation, Refunds and Reissues" screenName="CANCELLATION, REFUNDS, AND REISSUES">
+		<questions>
+			
+			
+			<question id="53">
+				<q><para>Q:  Is there a parking garage nearby?</para></q>
+				<a><para>A:  The closest parking garage to Top of the Rock is Rockefeller Center Garage, located at 25 W. 48th St This garage is open to the public 24/7.  They can be reached at 212-698-8530.</para></a>
+			</question>
+			
+			<question id="54">
+				<q><para>Q: Where is the nearest MTA subway station?</para></q>
+				<a><para>A: There are several MTA stations within easy walking distance of Top of the Rock. However, the closest 
+				of all is right beneath the building. The 47-50 Streets - Rockefeller Center MTA stop is connected to the 
+				Concourse level of 30 Rockefeller Center. The B, D, F, and V trains all stop there.</para></a>
+			</question>
+			
+
+		</questions>
+
+	</category>
+</categories>
+
+		

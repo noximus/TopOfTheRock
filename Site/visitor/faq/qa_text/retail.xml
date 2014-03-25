@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<categories>
+	<category id="9" name="Group Sales" screenName="GROUP SALES">
+		<questions>
+				
+			
+			
+			<question id="44">
+				<q><para>Q:  Can I order items from the gift shop online?</para></q>
+				<a><para>A: We do not have an online gift shop at this time.</para></a>
+			</question>
+			
+			
+			<question id="45">
+				<q><para>Q: Where do you sell Target and Swarovski merchandise?</para></q>
+				<a><para>A: Exclusive Swarovski merchandise is available at our retail kiosk on the 67th floor. 
+				Target&#174 merchandise is available on the 69th floor.</para></a>
+			</question>
+			
+			<question id="46">
+				<q><para>A: The return policy of Top of the Rock retail shops is to offer a prompt refund or exchange of 
+				merchandise within the following guidelines:  </para></q>
+				<a><para><bullet>	Merchandise returned with a valid receipt can be returned at any time and will be exchanged or refunded for the purchased price.</bullet> 
+				<bullet>Merchandise returned with a valid receipt will be refunded in the same tender type as the original purchase.</bullet>
+				<bullet>Rockefeller Center merchandise must have all tags and tickets attached for return, and must be accompanied by a valid receipt. </bullet>
+				<bullet>Merchandise returned without a valid receipt may be exchanged at the current selling price, or may be returned for a merchandise credit.</bullet>
+				<bullet>Merchandise credits cannot be replaced if lost or stolen.</bullet>
+				<bullet>Returns over $150 must be witnessed and signed off by a manager or lead cashier.</bullet></para></a>
+			</question>
+			
+			
+		</questions>
+
+	</category>
+</categories>
+
+		

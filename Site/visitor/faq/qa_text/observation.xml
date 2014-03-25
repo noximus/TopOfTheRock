@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<categories>
+	<category id="4" name="Observation Deck" screenName="OBSERVATION DECK">
+		<questions>
+			<question id="21">
+				<q><para>Q: How long can visitors stay at the Top?</para></q>
+				<a><para>A: There is no time limit to how long you can stay on the Observation Deck until we close at Midnight. 
+				However, the average length of stay is about 45 minutes to an hour.</para></a>
+			</question>
+		
+		
+			<question id="22">
+				<q><para>Q: Is the Observation Deck enclosed? Is there fencing around the Top?
+				</para></a>
+				<a><para>A: The majority of the first level of the Deck is indoors. All outdoor terraces on the 67th and 69th floors are enclosed only 
+				by panels of fully transparent, non-reflective, safety glass allowing completely unobstructed, open-air views of the entire city. 
+				The 70th floor, the topmost level of the Observation Deck, has a fully unobstructed 360 degree view of New York City and beyond.</a></para>
+			</question>
+			
+			<question id="23">
+				<q><para>Q: Where are the restrooms located on the Observation Deck?</para></q>
+				<a><para>A: Restrooms are available on the 66th Floor once on the Observation Deck. To visit them, you will need to take a separate 
+				elevator down one floor from the 67th. If you have any difficulty locating this elevator, ask one of our Hosts and they will 
+				gladly direct you.
+				</para></a>
+			</question>
+			
+		
+			
+		</questions>
+
+	</category>
+</categories>
+
+		

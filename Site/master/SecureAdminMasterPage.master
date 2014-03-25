@@ -1,0 +1,44 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="SecureAdminMasterPage.master.cs" Inherits="master_SecureAdminMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="blackBar"></div>
+        <div id="enclose">
+            <div id="header">
+                <div id="logo"><!--img src="../App_Themes/Admin/images/logo.gif"  alt="Logo"/--></div>
+                <div id="logout">
+                    Logged in as <asp:LinkButton ID="LinkButtonLoggedIn" runat="server"  CausesValidation="False" /> (<asp:LinkButton ID="LinkButtonLogout" OnClick="LogOut_Click" runat="server" Text="Logout" CausesValidation="False"/>)
+                </div>
+                <div id="tabs">
+                    <ul>
+                        <li id="navWelcome" runat="server"><a href="../admin/Default.aspx">Home</a></li>
+                        <li id="navManageUser" runat="server"><a href="../admin/MyProfile.aspx">Manage Users</a></li>
+                        <li id="navHistory" runat="server"><a href="../admin/History.aspx">Manage Contents</a></li>
+                        <li id="navThemes" runat="server"><a href="../admin/Themes.aspx">Manage Themes</a></li>
+                        
+                    </ul>
+                </div>
+                <div id="subnavHolder" runat="server">
+                    <div id="subnav">
+                        <asp:ContentPlaceHolder ID="cphNav" runat="server">
+                            </asp:ContentPlaceHolder>
+                    </div>
+                </div>
+            </div>
+            <div id="divWelcomeImage" runat="server"><asp:Image ID="ImageCenter" runat="server" Visible="false" /></div>
+            <div id="content">
+                <div>
+                    <asp:ContentPlaceHolder ID="MainContentPlaceHolder" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

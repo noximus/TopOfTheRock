@@ -1,0 +1,10 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="HistoryMasterPage.master.cs" Inherits="master_ShareMasterPage" MasterPageFile="~/master/BaseMasterPage.master" %>
+<%@ Register Src="~/common/controls/TopMenu.ascx" TagPrefix="totr" TagName="TopMenu"   %>
+<asp:Content ContentPlaceHolderID="ContentTopMenu" runat="server" ID="ContentTopMenu">
+   <totr:TopMenu ID="wc_TopMenu" runat="server" SelectedMenu="Share" />
+</asp:Content>
+<asp:Content ContentPlaceHolderID="ContentBodyHolder" runat="server" ID="BodyHolder">
+
+    <asp:ContentPlaceHolder ID="ContentBodyHolder" runat="server" />
+
+</asp:Content>

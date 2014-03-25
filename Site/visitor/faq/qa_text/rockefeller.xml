@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<categories>
+	<category id="12" name="Rockefeller Center" screenName="ROCKEFLLER CENTER">
+		<questions>
+			
+			
+			<question id="55">
+				<q><para>Q: What else is there to do at Rockefeller Center?</para></q>
+				<a><para>A: There are many things to see and do at Rockefeller Center. The Center includes restaurants, shops, 
+				artwork, and tours. The Today Show is broadcast live from the plaza regularly, and there are often special 
+				events held here. For a more complete listing, including a monthly events calendar, visit http://www.rockefellercenter.com.</para></a>
+			</question>
+			
+			
+			<question id="56">
+				<q><para>Q: What time does the Rainbow Room open?</para></q>
+				<a><para>A: The Rainbow Room opens to the public at 5PM. Reservations are required for dinner, but not for drinks.</para></a>
+			</question>
+			
+			
+			<question id="57">
+				<q><para>Q: Where do we go for the skating rink?</para></q>
+				<a><para>A: The large stairway leading to the rink from the Channel Gardens is the entrance for all rink guests. 
+				For rates and more information on the skating rink, please visit their website at http://www.therinkatrockcenter.com. </para></a>
+			</question>
+			
+			
+			<question id="58">
+				<q><para>Q: When is the Rockefeller Center Christmas Tree lighting ceremony for 2006?</para></q>
+				<a><para>A: The Christmas Tree is lit after Thanksgiving every year. A definite date for 2006 
+				has not yet been announced, but the tentative date is Tuesday, November 28th.</para></a>
+			</question>
+			
+			<question id="59">
+				<q><para>Q: Where do we find the Rockefeller Center Tour and NBC Studio Tour?</para></q>
+				<a><para>A: Both tours leave from the NBC Experience Store in 30 Rockefeller Plaza, and are great companion experiences 
+				to Top of the Rock. The Rockefeller Center Tour focuses on the art and architecture of Rockefeller Center, 
+				while the NBC Studio Tour brings you through the studios used to tape shows such as <ital>Saturday Night Live</ital>
+				and <ital>Late Night with Conan O'Brien</ital>. Both tours are particularly well complemented by the Pre-Show exhibit 
+				at Top of the Rock and the short films on the history of the Rockefeller Center.</para></a>
+			</question>
+			
+			<question id="60">
+				<q><para>Q: Where do we find the Radio City Music Hall Stage Door Tour?</para></q>
+				<a><para>A: Radio City Music Hall, right across 50th Street from the main Top of the Rock entrance, plays host to the Stage Door Tour,
+				which is perfectly paired with the short film Top of the Rock offers on the history of Radio City and the Rockettes. </para></a>
+			</question>
+		
+			<question id="61">
+				<q><para>Q: Where is the Diego Rivera mural?</para></q>
+				<a><para>A: <ital>Man in the Crossroads</ital>, a mural by Mexican painter Diego Rivera, was originally on the wall 
+				behind the information desk in the lobby of the 30 Rockefeller Plaza. It was removed in 1937 over controversy regarding a picture 
+				of Vladimir Lenin in the mural. It was replaced by <ital>American Progress</ital>, a mural by Spaniard Jose Maria Sert, 
+				which adorns the wall now.</para>
+				
+				<para>Renewed public interest in the story of the Rivera mural came on the heels of the movie, <ital>Frida</ital>. 
+				Its just one thread of the rich tapestry of art history at Rockefeller Center. That tradition, begun with the 
+				artistic vision of Abby Aldrich-Rockefeller, continues with Tishman Speyer in the modern era. 
+				Top of the Rock, and its masterfully crafted architecture, is the next stage in that tradition.</para></a>
+			</question>
+			
+
+			
+		</questions>
+
+	</category>
+</categories>
+
+		

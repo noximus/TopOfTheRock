@@ -1,0 +1,32 @@
+
+<asp:ImageButton runat="server" ImageUrl="images/submit.png" SkinId="SubmitStory" style="margin:5px 0px 0px 140px;"/>
+<asp:ImageButton runat="server" ImageUrl="images/button.png" SkinId="EmptyButton"/>
+<asp:ImageButton runat="server" ImageUrl="images/share/hasPicture.png" SkinId="HasPicture"/>
+<asp:ImageButton runat="server" ImageUrl="images/share/hasVideo.png" SkinId="HasVideo"/>
+<asp:ImageButton runat="server" ImageUrl="images/share/hasText.png" SkinId="HasText"/>
+<asp:ImageButton runat="server" ImageUrl="images/favColor/skipit.png" SkinId="SkipIt"/>
+<asp:ImageButton runat="server" ImageUrl="images/favColor/rockit.png" SkinId="RockIt"/>
+
+
+
+<asp:Image runat="server" SkinID="MainBgImage" ImageUrl="images/temp/contentBg.png" />
+<asp:Image runat="server" ImageUrl="images/or.png" SkinId="SubmitStoryOr"/>
+<asp:Image runat="server" ImageUrl="images/bar.png" SkinId="TopBigBar"/>
+<asp:Image runat="server" ImageUrl="images/button.png" SkinId="EmptyButtonImg"/>
+
+
+<asp:Image runat="server" ImageUrl="images/boomer/photo.jpg" SkinId="BoomerPhoto"/>
+<asp:Image runat="server" ImageUrl="images/default/right.png" SkinId="WelcomeDefaultRight"/>
+<asp:Image runat="server" ImageUrl="images/boomer/right.png" SkinId="WelcomeBoomerRight"/>
+<asp:Image runat="server" ImageUrl="images/echo/left.png" SkinId="WelcomeEchoLeft"/>
+<asp:Image runat="server" ImageUrl="images/echo/right.png" SkinId="WelcomeEchoRight"/>
+<asp:Image runat="server" ImageUrl="images/genx/right.png" SkinId="WelcomeGenxRight"/>
+<asp:Image runat="server" ImageUrl="images/nightlife/right.png" SkinId="WelcomeNightRight"/>
+
+<asp:Image runat="server" ImageUrl="images/sGps/right.jpg" SkinId="SpecOfferGpsRight"/>
+<asp:Image runat="server" ImageUrl="images/sGiftCard/right1.jpg" SkinId="SpecOfferGiftCardRightOne"/>
+<asp:Image runat="server" ImageUrl="images/sGiftCard/right2.jpg" SkinId="SpecOfferGiftCardRightTwo"/>
+<asp:Image runat="server" ImageUrl="images/sRockPath/right.png" SkinId="SpecOfferRockPathRight"/>
+<asp:Image runat="server" ImageUrl="images/sBodies/right.gif" SkinId="SpecOfferBodiesRight"/>
+<asp:Image runat="server" ImageUrl="images/sMoma/right.gif" SkinId="SpecOfferMomaRight"/>
+<asp:Image runat="server" ImageUrl="images/sArt/right.jpg" SkinId="SpecOfferArtRight"/>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<categories>
+	<category id="6" name="Box Office" screenName="BOX OFFICE">
+		<questions>
+	
+			
+			<question id="34">
+				<q><para>Q:  Can I purchase tickets on-site?</para></q>
+				<a><para>A:  Yes, tickets can be purchased on-site at our box office, accessible through our 50th 
+				St. entrance or through the concourse of 30 Rockefeller Plaza.</para></a>
+			</question>
+			
+			<question id="35">
+				<q><para>Q:  Do I have to stand in line if there is not an available timeslot when I purchase on-site?</para></q>
+				<a><para>A: Once you purchase your ticket at the ticket counter, you can leave then return at your designated time slot. 
+				Lines are a waste of your valuable time. There is so much for you to enjoy in Rockefeller Center and Midtown Manhattan, 
+				we wouldn�t want you to miss any of that by standing in a line instead.</para></a>
+			</question>
+			
+			<question id="36">
+				<q><para>Q: What are the hours of operation for the box-office?</para></q>
+				<a><para>A: 8:00 AM to 10:50 PM. </para></a>
+			</question>
+
+			
+			
+			
+		</questions>
+
+	</category>
+</categories>
+
+		

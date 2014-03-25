@@ -1,0 +1,85 @@
+/* CSS Document */
+
+div#tabs {
+	position: absolute;
+	top: 100px;
+}
+div#tabs ul {
+	margin: 0px;
+	padding: 0px;
+	padding-left: 1px;
+}
+div#tabs li {
+	display: block;
+	float: left;
+	margin: 0px 3px 0px 0px;
+	padding: 7px 15px 0px 15px;
+	height: 23px;
+	background: url(images/tab.gif);
+}
+div#tabs a {
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+div#tabs a:hover {
+	color: #FFE47E;
+}
+div#tabs li.disabled a {
+	-moz-opacity: 0.5;
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+}
+div#tabs li.disabled a:hover {
+	color: white;
+}
+div#tabs li.active {
+	background: url(images/active_tab.gif);
+}
+div#tabs li.active a {
+	color: white;
+}
+div#tabs li.active a:hover {
+	color: white;
+}
+div#subnav {
+	position: absolute;
+	width: 798px;
+	height: 29px;
+	top: 130px;
+	background: #890C08;
+	border: 1px solid #680906;
+	border-top: 0px;
+}
+div#subnav ul {
+	margin: 0px;
+	padding: 0px;
+}
+div#subnav li {
+	display: block;
+	float: left;
+	margin: 3px 0px 0px 0px;
+	padding: 4px 14px 0px 14px;
+	height: 19px;
+	border-right: 1px solid #ffffff;
+}
+div#subnav li.active {
+	font-weight: bold;
+}
+div#subnav li.last {
+	border-right: 0px;
+}
+div#subnav li.activeLast {
+	border-right: 0px;
+	font-weight: bold;
+}
+div#subnav a {
+	color: white;
+	text-decoration: none;
+}
+div#subnav a:hover {
+	border-bottom: 1px solid #CCCCA3;
+}
+div#subnav li.disabled a {
+	color: #CCCCA3;
+}

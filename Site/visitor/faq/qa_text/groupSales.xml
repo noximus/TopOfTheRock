@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<categories>
+	<category id="8" name="Group Sales" screenName="GROUP SALES">
+		<questions>
+				
+			<question id="41">
+				<q><para>Q:  Do you offer corporate discounts and/ or group rates</para></q>
+				<a><para>A: We offer a discount for groups of 20 people or more. Please contact one of our group sales coordinators at 
+				(212) 698-2000 or send an e-mail to groups@topoftherocknyc.com to book your group.</para></a>
+			</question>
+			
+			<question id="42">
+				<q><para>Q:  Do you offer discounts for travel professionals?</para></q>
+				<a><para>A: Yes, please refer to the "Travel Professionals" tab on our website at http://www.topoftherocknyc.com.
+				</para></a>
+			</question>
+			
+			<question id="43">
+				<q><para>Q: Do you have special programs for educational groups?</para></q>
+				<a><para>A: We do. When you contact one of our group sales coordinators at (212) 698-2000 or send an email to 
+				groups@topoftherocknyc.com to book your group, please be sure to indicate you are booking a school group. 
+				We have additional educational materials available to assist educators in making the most of a 
+				field trip to Top of the Rock.</para></a>
+			</question>
+			
+			
+		</questions>
+
+	</category>
+</categories>
+
+		

@@ -1,0 +1,35 @@
+Fonts used:
+-----------------------------------------
+Arial
+
+
+Versions:
+-----------------------------------------
+MX 2004 & Higher
+
+
+How to use this file:
+-----------------------------------------
+Simply drop the movieclip named imageView_mc onto your stage, all ActionScript is self-contained in the imageView_mc movieclip.
+
+
+To customize:
+-----------------------------------------
+
+
+1) Create your thumbnail images (107 width by 80 height) and large (331 width by 248 height)
+
+2) Name them in numetric order e.g. large_1.jpg, large_2.jpg, large_3.jpg. (See example images)
+
+3) Save the images in the same folder as the swf.
+
+4) To change the number of pics displayed in the flash, go inside the imageView_mc movieclip and view the ActionScript on the Actions layer. Change totalPics to the number of pics you want displayed.
+
+5) Test the swf, your images should appear.
+
+
+	
+
+
+
+

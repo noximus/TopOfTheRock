@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<languages>
+	<language type="de" id="0">	
+		<langPageHeading>INFORMATIONEN FÜR BESUCHER</langPageHeading>
+		<langIntroText>Warum sich die Stadt bloß ansehen, wenn man sie auch erleben kann? Hier finden Sie alle nötigen Informationen, um aus Ihrem Besuch im Top of the Rock ein einzigartiges Erlebnis zu machen.<br /><br />Lokalisieren Sie unseren genauen Standort, entdecken Sie unser erstklassiges Restaurant- und Einkaufsangebot und tauschen Sie Tipps und Empfehlungen in unserem Globalen Forum aus.
+</langIntroText>
+		<langDrivingDirections>ANFAHRT MIT DEM AUTO</langDrivingDirections>
+		<langTransit>ANFAHRT MIT BUS / U-BAHN</langTransit>
+		<langDining>RESTAURANTS</langDining>
+		<langShopping>SHOPPING</langShopping>
+		<langForums>GLOBALES FORUM</langForums>
+		<langFAQ>HÄUFIG GESTELLTE FRAGEN</langFAQ>
+		<langContact>KONTAKT</langContact>
+	</language>
+	<language type="fr" id="1">	
+		<langPageHeading>INFORMATIONS VISITEURS</langPageHeading>
+		<langIntroText>Pourquoi vous contenter de voir la ville quand vous pouvez la vivre? Vous trouverez ici toutes les informations nécessaires pour préparer le voyage de votre vie au Top of the Rock! <br /><br />Venez voir où nous sommes situés ! Découvrez les meilleurs restaurants et magasins de la ville ! Échangez vos meilleurs plans et conseils sur notre forum international!
+</langIntroText>
+		<langDrivingDirections>VENIR EN VOITURE</langDrivingDirections>
+		<langTransit>VENIR PAR UN AUTRE MOYEN</langTransit>
+		<langDining>RESTAURANTS</langDining>
+		<langShopping>MAGASINS</langShopping>
+		<langForums>FORUM INTERNATIONAL</langForums>
+		<langFAQ>FAQ</langFAQ>
+		<langContact>NOUS CONTACTER</langContact>
+	</language>
+	<language type="it" id="2">	
+		<langPageHeading>INFORMAZIONI PER I VISITATORI</langPageHeading>
+		<langIntroText>Perché limitarti a visitare la città se puoi viverla fino in fondo? Trova qui tutte le informazioni necessarie per rendere la tua visita un vero e proprio viaggio da sogno. <br /><br />Scopri dove siamo e come raggiungerci, trova i migliori ristoranti e i negozi più in voga della zona e scambia consigli e opinioni nel nostro Global Forum.
+</langIntroText>
+		<langDrivingDirections>COME ARRIVARE IN AUTO</langDrivingDirections>
+		<langTransit>TRASPORTO PUBBLICO</langTransit>
+		<langDining>RISTORANTI</langDining>
+		<langShopping>SHOPPING</langShopping>
+		<langForums>GLOBAL FORUM</langForums>
+		<langFAQ>DOMANDE FREQUENTI</langFAQ>
+		<langContact>CONTATTI</langContact>
+	</language>
+	<language type="es" id="3">	
+		<langPageHeading>INFORMACIÓN PARA EL VISITANTE</langPageHeading>
+		<langIntroText>¿Por qué limitarse a ver la ciudad cuando podría vivirla? Aquí encontrará toda la información que necesita para convertir su trayecto al Top en el viaje de su vida.<br /><br />Encuentre nuestra ubicación, descubra los mejores lugares para comer y comprar en la zona e intercambie consejos y recomendaciones en nuestro Foro Global.
+</langIntroText>
+		<langDrivingDirections>DIRECCIONES EN COCHE</langDrivingDirections>
+		<langTransit> EN TRANSPORTE PÚBLICO</langTransit>
+		<langDining>COMER</langDining>
+		<langShopping>COMPRAR</langShopping>
+		<langForums>FORO GLOBAL</langForums>
+		<langFAQ>PREGUNTAS FRECUENTES</langFAQ>
+		<langContact>CONTACTO</langContact>
+	</language>
+	<language type="ja" id="4">	
+		<langPageHeading>ビジター･インフォメーション</langPageHeading>
+		<langIntroText>街をただ見るだけでなく素晴らしい体験を楽しみましょう。ここには、あなたの旅を生涯最高の思い出にするために必要な情報がすべてつまっています。<br/><br />地域を指定して、そのエリアで最高のレストランやお店を見つけてください。また、グローバル･フォーラムでは旅のヒントやお勧め情報を見たり書き込むことができます。
+</langIntroText>
+		<langDrivingDirections>車でのアクセス</langDrivingDirections>
+		<langTransit>公共機関でのアクセス</langTransit>
+		<langDining>レストラン</langDining>
+		<langShopping>ショッピング</langShopping>
+		<langForums>グローバル･フォーラム</langForums>
+		<langFAQ>よくある質問</langFAQ>
+		<langContact>お問い合わせ</langContact>
+	</language>
+
+</languages>

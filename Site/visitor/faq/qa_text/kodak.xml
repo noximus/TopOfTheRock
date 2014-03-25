@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<categories>
+	<category id="11" name="Kodak" screenName="KODAK">
+		<questions>
+				
+			
+			<question id="47">
+				<q><para>Q:  Where can I pick up my Kodak photo that was taken at the Top of the Rock?</para></q>
+				<a><para>A:  Photos can be picked up at the Kodak counter located in the Top of the Rock gift shop in the 
+				concourse level of 30 Rockefeller Center.  Photos are available up to 3 days after the photo was taken.</para></a>
+			</question>
+			
+			<question id="48">
+				<q><para>Q: How do I pick up my Kodak photo online?</para></q>
+				<a><para>A: The web address for retrieving pictures is http://photos.topoftherocknyc.com. 
+				Photos are available online for up to 30 days after your visit to Top of the Rock.
+				</para></a>
+			</question>
+		
+			
+		</questions>
+
+	</category>
+</categories>
+
+		

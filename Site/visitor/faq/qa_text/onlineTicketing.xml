@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<categories>
+	<category id="7" name="Online Ticketing" screenName="ONLINE TICKETING">
+		<questions>
+	
+			<question id="37">
+				<q><para>Q:  Can I purchase tickets online the day I want to visit TotR?</para></q>
+				<a><para>A:  Tickets can be purchased online or on the phone through a sales coordinator three hours 
+				or more in advance. Anything less than three hours in advance must be done in person at the box office, 
+				open from 8:30 AM -10:50 PM.</para></a>
+			</question>
+			
+			<question id="38">
+				<q><para>Q:  What if I can't print the tickets I purchased online?</para></q>
+				<a><para>A:  Please present the credit card that was used to purchase the tickets at the ticket counter when you arrive 
+				and a sales associate will print the tickets for you. It is recommended that you bring the confirmation number from the 
+				first ticket in your purchase. This number is located under the barcode on your ticket.</para></a>
+			</question>
+			
+			<question id="39">
+				<q><para>Q. Why didn't I receive a confirmation e-mail?</para></q>
+				<a><para>A. Sometimes, our confirmation e-mails are routed to your spam or junk mail folder so you don't see it in your 
+				in-box. Another reason may be that the e-mail address was entered incorrectly. If you don't receive a confirmation email 
+				within an hour of purchase, feel free to contact us at info@topoftherocknyc.com and one of our customer care representatives 
+				will address the issue.</para></a>
+			</question>
+			
+			<question id="40">
+				<q><para>Q:  Do I have to print individual tickets for everyone in the party or is there a single pass for the party?</para></q>
+				<a><para>A:  You must print tickets for the whole party. Alternately, you can bring the credit card you booked the tickets 
+				with you to the box office, along with the confirmation number (located under the barcode) from one of your tickets, 
+				and the box office can print your tickets for you.</para></a>
+			</question>
+
+			
+			
+			
+			
+		</questions>
+
+	</category>
+</categories>
+
+		

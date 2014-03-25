@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/welcome.aspx" title="Welcome"  description="">
+    <siteMapNode url="~/notFound.aspx" title="Not Found"  description="" />
+    <siteMapNode url="~/underConstruction.aspx" title="Under Construction"  description="" />
+    <siteMapNode url="~/welcome/boomer.aspx" title="Jazz"  description="Jazz" />
+    <siteMapNode url="~/welcome/genx.aspx" title="Lounge"  description="Lounge" />
+    <siteMapNode url="~/welcome/echo.aspx" title="Alternative" description="Alternative"/>
+    <siteMapNode url="~/welcome/nightlife.aspx" title="Dance" description="Dance"/>
+    <siteMapNode url="~/history/Default.aspx" title="History" description="">
+      <siteMapNode url="~/history/rockefellercenter.aspx" title="Rockefeller Center" description=""/>
+      <siteMapNode url="~/history/photocredits.aspx" title="Photo Credits" description=""/>
+    </siteMapNode>
+    <siteMapNode url="~/share/Default.aspx" title="Share" description="">
+      <siteMapNode url="~/share/tellyourstory.aspx" title="Tell Your Story" description=""/>
+      <siteMapNode url="~/share/storyfromtop.aspx" title="Stories from the Top" description="">
+        <siteMapNode url="~/share/storieslist.aspx?source=12" title="Romantic" description=""/>
+        <siteMapNode url="~/share/storieslist.aspx?source=13" title="Funny" description=""/>
+        <siteMapNode url="~/share/storieslist.aspx?source=14" title="Inspiring" description=""/>
+        <siteMapNode url="~/share/storieslist.aspx?source=15" title="Unexpected" description=""/>
+        <siteMapNode url="~/share/photocredits.aspx" title="Photo Credits" description=""/>
+      </siteMapNode>  
+    </siteMapNode>
+    <siteMapNode url="~/shopthetop/Default.aspx" title="Shop The Top" description=""/>
+    <siteMapNode url="~/events/Default.aspx" title="Event Venues" description="">
+	<siteMapNode url="~/events/specialEventsForm.aspx" title="Special Events Form" description=""/>
+	</siteMapNode>
+    <siteMapNode url="~/specialoffers/Default.aspx" title="Special Offers" description="">
+      <siteMapNode url="~/specialoffers/specialoffers_combo.aspx" title="Combo Tickets" description="">
+        <siteMapNode url="~/specialoffers/specialoffers_rockpass.aspx" title="Rock the Pass" description=""/>
+        <siteMapNode url="~/specialoffers/specialoffers_bodies.aspx" title="Top of the Rock and Bodies...The Exhibition" description=""/>
+        <siteMapNode url="~/specialoffers/specialoffers_moma.aspx" title="Rock MoMA" description=""/>
+        <siteMapNode url="~/specialoffers/specialoffers_art.aspx" title="Art and Architecture Tour" description=""/>
+      </siteMapNode>
+      <siteMapNode url="~/specialoffers/specialoffers_gps.aspx" title="GPS Audio Tour" description=""/>
+      <siteMapNode url="~/specialoffers/specialoffers_giftcard.aspx" title="Gift Cards" description=""/>
+    </siteMapNode>
+    <siteMapNode url="~/contact/contact.aspx" title="Contact" description="">
+	<siteMapNode url="~/contact/contactForm.aspx" title="Film &amp; Photo Shoot Form" description=""/>
+    </siteMapNode>
+	<siteMapNode url="~/groups/default.aspx" title="Groups" description="">
+	  <siteMapNode url="~/groups/travelprofessionals.aspx" title="Travel and Tour Groups" description="">
+	    <siteMapNode url="~/groups/travelprofessionalslearn.aspx" title="How to Get Started" description=""/>
+	  </siteMapNode>
+	  <siteMapNode url="~/groups/clubs.aspx" title="Organizations and Clubs" description=""/>
+	  <siteMapNode url="~/groups/corporate.aspx" title="Corporate Groups" description=""/>
+	  <siteMapNode url="~/groups/schoolscamps.aspx" title="Schools and Camps" description="">
+	    <siteMapNode url="~/groups/students.aspx" title="Student Groups" description=""/>
+	    <siteMapNode url="~/groups/teachers.aspx" title="Teacher Groups" description=""/>
+	  </siteMapNode>
+	</siteMapNode>
+	<siteMapNode url="~/visitor/default.aspx" title="Visitor Information" description="">
+	  <siteMapNode url="~/visitor/sp.aspx" title="Spanish" description=""/>
+	  <siteMapNode url="~/visitor/jp.aspx" title="Japanese" description=""/>
+	  <siteMapNode url="~/visitor/gr.aspx" title="German" description=""/>
+	  <siteMapNode url="~/visitor/it.aspx" title="Italian" description=""/>
+	  <siteMapNode url="~/visitor/faq/default.aspx" title="FAQ" description=""/>
+	  <siteMapNode url="~/visitor/faq/faqSection.aspx" title="" description=""/>
+	</siteMapNode>
+	<siteMapNode url="~/press/default.aspx" title="Press / Publicity" description=""/>
+	<siteMapNode url="~/welcome/default.aspx" title=""  description="" />
+	<siteMapNode url="~/forum/default.aspx" title="Global Forum"  description="" />
+	<siteMapNode url="~/forum/viewtopic.aspx" title="Global Forum"  description="" />
+	<siteMapNode url="~/forum/newtopic.aspx" title="Global Forum"  description="" />
+	<siteMapNode url="~/careers/default.aspx" title="Careers" description="" />
+
+    </siteMapNode>
+  
+</siteMap>

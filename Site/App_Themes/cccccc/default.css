@@ -1,0 +1,145 @@
+﻿body {
+	font-family:Verdana;
+	background-color: #ffffff;
+	margin: 0px;
+	padding: 0px;
+	background: #000 url(images/common/page_bg.gif) 50% 1px;
+}
+
+#enclose {width: 100%;height: 100%;margin-right: auto;margin-left: auto;text-align: center;}	
+#content {position: relative;width: 100%;height:641px;margin: 0px auto 0px auto;text-align: center;background: url(images/common/gradient_bg.gif);padding-top: 41px;}
+#c{position: relative;width: 920px;height:510px;margin: 0px auto 0px auto;text-align: center;}
+
+div#gradient_bg{width: 100%;}
+div#flash_holder{width: 920px;margin: 0 auto;}
+
+p{font-family:Arial;font-size:12px;color:White;}
+
+h1{font-family:Arial Narrow;font-size:25px;color:#ffffff;margin:0px;padding:10px 0px 0px 50px;text-transform:uppercase;width:800px;}
+h2{font-family:Arial;font-size:18px;font-weight:bold;color:#ffffff;margin:0px;padding:0px 0px 10px 0px;}
+h3{font-family:Verdana;font-size:12px;font-weight:normal;color:#33DEDE ;margin:0px;padding:0px;}
+
+div#banner{height:247px;}
+
+
+
+div#header{height:75px;width:900px;text-align:left;background-color:#ffffff;}
+
+div#navigation{height:59px;/*padding:0px 0px 15px 0px;position:absolute;top:0px;*/}
+
+a{font-family:Arial;font-size:11px;color:#ffffff;text-decoration:underline;}
+a:hover{color:#ffffff;}
+
+img{border:0px;}
+
+div#bg{position:absolute;text-align:center;width:100%;left:0px;}
+
+div#nav{line-height:24px;margin:0px 0px 0px 210px;}
+div#nav ul{margin:0px;clear:both;}
+div#nav ul.t{padding:0px 0px 0px 33px;}
+div#nav ul.b{padding:0px 0px 0px 40px;}
+div#nav li.l{list-style-type:none;padding:10px 0px 40px 0px;}
+div#nav li{list-style-type:none;float:left;margin:0px 40px 0px 0px;}
+div#nav a{font-family:Verdana;font-size:11px;color:#cccccc;text-transform:uppercase;}
+div#nav a:hover{color:#ffffff;}
+
+div#body {position: absolute;top: 52px;left: 15px;width: 879px;height: 439px;background: url(images/common/bg.jpg) no-repeat 0px 2px;}
+div#body p{font-family:Arial;font-size:11px;color:White;text-align:left;padding:0px; margin:0px;}
+
+div#footer{position: relative;width: 920px;margin: 0px auto 0px auto;text-align: center;font-family:Arial;font-size:9px;color:#cccccc;}
+div#footer ul{padding:0px 0px 0px 260px;margin:0px;}
+div#footer li{list-style-type:none;float:left;margin:0px 5px 0px 0px;}
+div#footer a{font-family: Arial;font-size: 9px;color: #cccccc;text-transform: capitalize;text-decoration: underline;letter-spacing: 1px;}
+div#footer a:hover{color:#ffffff;}
+
+div#footerPlayer{position:absolute;left:40px;top:0px;}
+div#footerView{position:absolute;left:780px;top:0px;}
+div#footerAdds{padding-top:0px;margin-top:0px;clear:both;}
+div#footerAdds img{margin-top:10px;}
+
+.hrule{position:absolute;width:878px;height:1px;border-top:solid 1px #cccccc;left:0px;}
+.fColor{float:left;margin:5px 0px 0px 11px;}
+.generalButton{position:absolute;}
+
+.dayBreak{position:absolute;top: 350px; left: 80px;}
+.dayBreak a{font-family:Verdana;font-size:9px;color:#cccccc;text-transform:uppercase;margin-right:10px;}
+.dayBreak a:hover{color:#ffffff;}
+
+.typeMusic{position:absolute;top: 350px; left: 548px;}
+.typeMusic a{font-family:Verdana;font-size:9px;color:#cccccc;text-transform:uppercase;margin-right:10px;}
+.typeMusic a:hover{color:#ffffff;}
+
+.share{position:absolute;left:0px;text-align:left;}
+.shareFPhoto{position:absolute;left:575px;background-color:White;}
+.storyForm label{font-family:Verdana;font-size:12px;color:#FEFEFE;text-transform:uppercase;margin-bottom:0px;display:block;font-weight:bold;width:300px;}
+
+.storyDetail{width:425px;}
+
+table.stories th{font-family:Arial;font-size:11px;color:#CCCCCC;font-weight:normal;}
+table.stories tbody td{font-family:Arial;font-size:11px;color:#ffffff;font-weight:bold;height:29px;border-bottom:solid 1px #414040;}
+table.stories a{font-family:Arial;font-size:11px;color:#ffffff;font-weight:bold;}
+table.stories tr.Pager td{padding: 0 0 0 25px;border-bottom:solid 0px;}
+
+div#cookie{position:absolute;width:829px;height:21px;border-top:solid 1px #808488;left:15px;top:473px; text-align:left; font-family: Arial;font-size: 9px;color: #cccccc;padding:4px 0px 0px 50px;}
+div#cookie a{font-family: Arial;font-size: 9px;color: #cccccc;letter-spacing: 1px;}
+
+
+div#contact{position:absolute;top:100px; left:50px;text-align:left;}
+div#contact p{font-family:Arial;font-size:12px;color:White;margin-bottom:10px;}
+div#contact a{font-family:Arial;font-size:11px;color:#ffffff;margin-right:10px;}
+div#contact a:hover{color:#ffffff;}
+
+/*  Vlad Changes   */
+.typeMusic a.active{color:#ffffff;}
+.dayBreak a.active{color:#ffffff;}
+
+div#nav a.active{color:#ffffff;}
+
+.DayBreakTitleImage{width: 174px;height: 33px;background-image: url("images/favColor/daybreak.png");}
+
+.TypeOfMusicTitleImage{width: 174px;height: 33px;background-image: url("images/favColor/typeofmusic.png");}
+.FavoriteColorTitleImage{width: 174px;height: 33px;background-image: url("images/favColor/mainButton.png");}
+
+.shareViewPhotoTitleImage{width: 879px;height: 63px;background-image: url("images/share/viewphotos.png");}
+
+.shareYourStoryPhotoTitleImage{width: 879px;height: 56px;background-image: url("images/share/shareyourstory.png");cursor:hand;}
+
+.storiesFromTopPhotoTitleImage{width: 879px;height: 56px;background-image: url("images/share/storiesfromtop.png");cursor:hand;}
+
+.storyFromTopImageTitle{width: 879px;height: 47px;background-image: url("images/share/storiesfromtopsub.png");}
+
+.storyFromTopImageBg{width: 425px;height: 419px;background-image: url("images/share/tellyourstoryPic.jpg");}
+
+.tellStoryImageTitleBig{width: 879px;height: 47px;background-image: url("images/share/tellyourstory.png");}
+.subBG {width: 879px;position:absolute;height:600px;top:58px;left:0px;background-image: url(images/groups/bg.jpg);background-repeat: no-repeat;}
+
+.subPhotoCreditBG {width: 879px;position:absolute;height:600px;top:2px;left:0px;background-image: url(images/history/credit.jpg);background-repeat: no-repeat;}
+
+.groupsDefault{position:absolute;width:319px;height:417px;top:7px;left:560px;background-image: url("images/groups/land_right.png");background-repeat: no-repeat;}
+.groupsCorporateBig{position:absolute;width:397px;height:285px;background-image: url("images/groups/corperate_right.jpg");background-repeat: no-repeat;}
+
+.groupsSchoolsCampsBig{position:absolute;width:397px;height:285px;background-image: url("images/groups/schools_camps_right.jpg");background-repeat: no-repeat;}
+
+.groupsStudentsBig{position:absolute;width:397px;height:265px;background-image: url("images/groups/students_right.jpg");background-repeat: no-repeat;}
+
+.groupsTeachersBig{position:absolute;width:397px;height:265px;background-image: url("images/groups/teachers_right.jpg");background-repeat: no-repeat;}
+
+.groupsClubsBig{position:absolute;width:397px;height:265px;background-image: url("images/groups/clubs_right.jpg");background-repeat: no-repeat;}
+
+.groupsTravelPBig{position:absolute;width:397px;height:265px;background-image: url("images/groups/travel_p_right.jpg");background-repeat: no-repeat;}
+
+.groupsTravelPLBig{position:absolute;width:390px;height:300px;background-image: url("images/groups/travel_p_l_right.jpg");background-repeat: no-repeat;}
+
+.historyC1Big{position:absolute;width:880px;height:293px;background-image: url("images/history/center1.jpg");background-repeat: no-repeat;}
+
+.historyC2Big{position:absolute;width:880px;height:293px;background-image: url("images/history/center.jpg");background-repeat: no-repeat;}
+
+.visitorDefautlBg{position:absolute;width:323px;height:386px;top:60px;left:100px;background-image: url("images/visitor/eng_right.jpg");background-repeat: no-repeat;}
+.visitorSPBg{position:absolute;width:419px;height:382px;top:28px;left:40px;background-image: url("images/visitor/sp_left.png");background-repeat: no-repeat;}
+.visitorGRBg{position:absolute;width:419px;height:382px;top:28px;left:40px;background-image: url("images/visitor/gr_left.png");background-repeat: no-repeat;}
+.visitorJPBg{position:absolute;width:419px;height:382px;top:28px;left:40px;background-image: url("images/visitor/jp_left.png");background-repeat: no-repeat;}
+.visitorITBg{position:absolute;width:419px;height:382px;top:28px;left:40px;background-image: url("images/visitor/it_left.png");background-repeat: no-repeat;}
+.shopCenter{position:absolute;width:879px;height:359px;top:62px;left:0px;background-image: url("images/shop/center.jpg");background-repeat: no-repeat;}
+.specialOffers{position:absolute;width:879px;height:441px;top:2px;left:0px;background-image: url("images/special/center.jpg");background-repeat: no-repeat;}
+.specialOffersG{position:absolute;width:355px;height:280px;top:100px;left:480px;background-image: url("images/special/centerGift.png");background-repeat: no-repeat;}
+.specialOffersGPS{position:absolute;width:355px;height:280px;top:100px;left:500px;background-image: url("images/special/centerGPS.png");background-repeat: no-repeat;}

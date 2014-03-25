@@ -1,0 +1,76 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="BaseMasterPage.master.cs" Inherits="master_BaseMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+    <title></title>
+   <script type="text/javascript" src="/common/js/swfobject.js"></script>
+<!--[if lt IE 7]>
+     <script type="text/javascript" src="/common/js/pngfix.js"></script>
+<![endif]-->
+
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="enclose">
+        <div id="content">        
+            <div id="bg">
+                <asp:Image ID="img_MainBG" runat="server" SkinID="MainBgImage" Width="898" Height="511"/>
+            </div>
+            <div id="c">
+            <div style="position:absolute;top:0px;left:15px;width:225px;height:55px;cursor:pointer;" onclick="javascript:__doPostBack('ctl00$ctl00$ContentTopMenu$wc_TopMenu$Welcome','')"><img src="/images/spacer.gif" width="100%" height="100%" /></div>
+                <asp:ContentPlaceHolder ID="ContentTopMenu" runat="server"/>
+                <div id="body">
+                    <asp:contentplaceholder id="ContentBodyHolder" runat="server"/>                                    
+                </div>
+                <div id="cookie"><asp:SiteMapPath ID="SiteMapPath1" runat="server" ParentLevelsDisplayed="3" PathDirection="RootToCurrent" PathSeparator=" / " RenderCurrentNodeAsLink="True" ShowToolTips="False" /></div>    
+            </div>
+            <div id="footer" style="left:25px;">
+		    <table width=870 border=0><tr>
+    		    <td align=left>
+
+			<div id="mPlayer" align="left">
+			</div>
+			    <script type="text/javascript">
+					    // <![CDATA[
+							    var so = new SWFObject("/common/swf/audio.swf", "TOTR Nav", "180", "20", "8", "#262626");
+							    so.addParam("wmode", "transparent");
+							    <asp:Literal ID="LiteralAudio" runat="server"/>
+							    so.write("mPlayer");
+					    // ]]>
+			    </script>
+
+		   </TD><TD width="100%" nowrap=nowrap>
+
+		    
+                    <asp:LinkButton ID="LinkButton1" runat="server" Text="Travel Industry Professionals" OnClick="bTravelPro_Click"/>
+		            &nbsp;|&nbsp;
+                    <a href="javascript:__doPostBack('ctl00$ctl00$ContentTopMenu$wc_TopMenu$Share','')">Photos</a>
+                    &nbsp;|&nbsp;
+                    <a href="javascript:__doPostBack('ctl00$ctl00$ContentTopMenu$wc_TopMenu$Refunds','')"
+	  onClick='window.open("https://secure.topoftherocknyc.com/ODTInternet/Web/RefundTicket/individualrefunddetails.aspx", "_blank", "height=600,width=800,toolbar=no,menubar=no,scrollbars=yes,status=yes,resizable=no"); return false;'>Refunds</a>
+                  &nbsp;  |&nbsp;
+                    <asp:LinkButton ID="bPress" runat="server" Text="Press" OnClick="bPress_Click"/>
+			&nbsp;  |&nbsp;
+			  
+				<asp:LinkButton ID="bPublicity" runat="server" OnClick="bPublicity_Click"
+				    Text="Publicity">
+				</asp:LinkButton>
+                
+		   </TD><TD align=right nowrap=nowrap>
+                
+                <img src="/images/official_sponsors.png" width="110" height="10" /><br /><a href="http://www.target.com" target="_blank"><asp:Image ID="img_Targ" runat="server" Height="22" ImageUrl="/images/footer_target2.png"
+	  border=0 Width="27" /></a><a href="http://www.swarovski.com" target="_blank"><asp:Image ID="img_Swar" runat="server" ImageUrl="/images/footer_swarovski.png" Width="83" Height="24" BorderColor=0 /></a>
+                <div id="footerAdds"></div>
+
+		</TD></TR></table>            
+                
+
+        </div>
+    </div>
+	<div style="display:none"><asp:LinkButton ID="bGroups" runat="server" Text="Groups" OnClick="bGroups_Click"/></div>
+    </form>
+</body>
+</html>
